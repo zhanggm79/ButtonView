@@ -9,7 +9,7 @@
 
 ![image](https://github.com/zhanggm79/ButtonView/blob/master/%20%E5%A4%9A%E9%80%89%E6%8C%89%E9%92%AE.gif)
 
-在iPhone5的的上运行图
+在iPhone5上运行图
 
 ![image](https://github.com/zhanggm79/ButtonView/blob/master/%E5%8D%95%E9%80%89%E6%8C%89%E9%92%AE.gif)
 
