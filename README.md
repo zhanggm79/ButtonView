@@ -7,7 +7,7 @@
 
 在iPhone7上运行图，按钮为多选模式
 
-！[image] （https://github.com/zhanggm79/ButtonView/blob/master/%20%E5%A4%9A%E9%80%89%E6%8C%89%E9%92%AE.gif）
+![image](https://github.com/zhanggm79/ButtonView/blob/master/%20%E5%A4%9A%E9%80%89%E6%8C%89%E9%92%AE.gif)
 
 在iPhone5上运行图，按钮为单选模式
 
